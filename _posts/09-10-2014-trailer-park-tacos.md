@@ -8,6 +8,6 @@ categories: main
 
 
 ## Ingredients
-- Shell
+- Tortilla
 - Real meat product
 - Simulated corn
